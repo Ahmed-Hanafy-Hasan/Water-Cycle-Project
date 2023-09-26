@@ -1,10 +1,3 @@
-/* Generated on: Tue Dec 06 2022 15:54:22 GMT+0000 (Coordinated Universal Time) */
-
-/* ==========================================================================
-   normalize.css v3.0.3 | MIT License | github.com/necolas/normalize.css 
-   ========================================================================== */
-
-/*! normalize.css v3.0.3 | MIT License | github.com/necolas/normalize.css */
 
 html {
     font-family: sans-serif;
@@ -1483,6 +1476,10 @@ textarea.w-select {
     -ms-user-select: none;
     -webkit-tap-highlight-color: transparent;
     -webkit-transform: translate(0, 0)
+}
+
+.web-font-style-for-specific {
+    background-color: #0082f3;
 }
 
 .w-lightbox-backdrop,
